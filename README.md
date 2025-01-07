@@ -36,7 +36,7 @@
   <a href="mailto:stevenabolajiibidokun@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/steven_ai" target="_blank">
+  <a href="https://linkedin.com/in/stevim-abolaji-ibidokun-ibidokun-024a57333" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
