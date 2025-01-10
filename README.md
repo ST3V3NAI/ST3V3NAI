@@ -43,6 +43,6 @@
 
 <!-- Custom Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/st3v3nai/st3v3nai/main/banner-image.png" alt="Custom Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/st3v3nai/st3v3nai/main/banner-image.png" alt="hacker-room-rainy-night-moewalls-com.mp4" width="100%" />
 </p>
 
