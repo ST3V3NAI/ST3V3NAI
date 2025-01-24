@@ -43,6 +43,10 @@
 
 <!-- Custom Banner Section -->
 
+
+https://github.com/user-attachments/assets/728ab3d9-ce9b-477b-960e-b67e80784f6e
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/st3v3nai/st3v3nai/main/hacker-room-rainy-night-moewalls-com.mp4" alt="Custom banner" width="100%" />
 </p>
