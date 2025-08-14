@@ -1,4 +1,5 @@
 <h1 align="center">Hi 🤙🏾, I'm Steven Abolaji Ibidokun</h1>
+<h3 align="center">🚀 Computer Science Student | 💻 Programmer | 🔍 Tech Enthusiast</h3>
 
 <!-- GitHub Stats Section -->
 <p align="center">
