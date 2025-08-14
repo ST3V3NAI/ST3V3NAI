@@ -11,15 +11,23 @@
 
 ---
 
+
+### 📊 GitHub Stats:
+
 <!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=st3v3nai&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
+### 🛠 Most Used Languages:
+
 <h3 align="center">Most Used Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st3v3nai&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+
+
+### ⚙️ Languages & Tools:
 
 <!-- Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
@@ -38,6 +46,10 @@
   </a>
 </p>
 
+---
+
+### 📬 How to reach me:
+
 <!-- Social Links Section -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -51,6 +63,14 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+### 🌟 Fun Facts:
+- 💡 Love exploring new programming challenges and tech topics.
+- 🛠 Big fan of building and breaking things to understand how they work.
+- 🎯 Goal: Contribute to impactful open-source projects and sharpen my problem-solving skills.
+
 
 <!-- Custom Banner Section -->
 
