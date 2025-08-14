@@ -1,6 +1,16 @@
 <h1 align="center">Hi 🤙🏾, I'm Steven Abolaji Ibidokun</h1>
 <h3 align="center">🚀 Computer Science Student | 💻 Programmer | 🔍 Tech Enthusiast</h3>
 
+---
+
+### 🧑🏾‍💻 About Me:
+- 🎓 Currently pursuing a degree in **Computer Science** at **Universidad de La Laguna (ULL)**.
+- 🌱 Always learning and experimenting with **C++**, **Python**, **Shell scripting**, and more.
+- 🔍 Interested in **algorithms**, **data structures**, **software development**, and **pentesting**.
+- 🤝 Love collaborating on side projects and solving real-world problems.
+
+---
+
 <!-- GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=st3v3nai&show_icons=true&theme=radical" alt="GitHub Stats"/>
