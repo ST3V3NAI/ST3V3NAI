@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙🏾, I'm Stevim Abolaji Ibidokun</h1>
-<h3 align="center">🚀 Computer Science Student | 💻 Programmer | 🔍 Tech Enthusiast</h3>
+<h3 align="center">🚀 Computer Science Student  |  💻 Programmer  |  🔍 Tech Enthusiast </h3>
 
 
 ### 🧑🏾‍💻 About Me:
